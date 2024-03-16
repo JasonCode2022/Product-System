@@ -1,0 +1,34 @@
+
+[
+  {
+    "fullName": "Manuela",
+    "merchantEmail": "manuelaferguson@exozent.com",
+    "store": "Heil"
+  },
+  {
+    "fullName": "Maude",
+    "merchantEmail": "maudeferguson@exozent.com",
+    "store": "Dyckesville"
+  },
+  {
+    "fullName": "Justine",
+    "merchantEmail": "justineferguson@exozent.com",
+    "store": "Townsend"
+  },
+  {
+    "fullName": "Audra",
+    "merchantEmail": "audraferguson@exozent.com",
+    "store": "Onton"
+  },
+  {
+    "fullName": "Poole",
+    "merchantEmail": "pooleferguson@exozent.com",
+    "store": "Coalmont"
+  },
+  {
+    "fullName": "Jennifer",
+    "merchantEmail": "jenniferferguson@exozent.com",
+    "store": "Alamo"
+  }
+]
+
